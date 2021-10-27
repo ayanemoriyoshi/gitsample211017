@@ -1,5 +1,5 @@
 <?php
-/*
+
 //1.引数に数値を指定して実行すると、数値を2倍にして返す関数を作成してください
 function nibai($max) {
    $result = $max*2;
@@ -38,7 +38,7 @@ arrkakeru($arr);
 
 echo "\n";
 
-*/
+
 
 //4.【応用】　下記のプログラムは、配列の中で1番大きい値を返す max_array という関数を実装しようとしています。途中の部分を完成させてください
 
@@ -63,7 +63,6 @@ echo max_array([10,500,7,1000]);
 
 echo "\n";
 
-/*
 
 //5.下記のビルトイン関数の用途、使い方を調べて実際に使ってみてください
  //strip_tags関数
@@ -107,6 +106,6 @@ date_default_timezone_set('Asia/Tokyo');
 
 echo date("Y/m/d H:i:s") ."\n";
 
-*/
+
 
 ?>
